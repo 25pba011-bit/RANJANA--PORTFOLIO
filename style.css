@@ -1,8 +1,8 @@
 body {
     font-family: 'Segoe UI';
     margin: 0;
-    background: linear-gradient(to right, #667eea, #764ba2);
-    color: blueviolet;
+    background: grey(o right, #667eea, #764ba2);
+    color: lightblue;
 }
 
 header {
